@@ -1,0 +1,40 @@
+.order-field {
+	padding: 20px;
+	/* blue color */
+	background-color: #27bca9;
+}
+
+.order-button {
+	margin-top: 20px;
+	color: white;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	background-color: #d75581;
+	white-space: nowrap;
+	font-size: 26px;
+	font-family: 'Lobster', cursive;
+}
+
+.order-button:hover {
+	background-color: #c14c74;
+}
+
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}
+
+.brand-logo {
+	height: 55vh;
+	width: 100vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url('http://cdn2.bigcommerce.com/server5700/d4170/product_images/uploaded_images/milkman-category.png?t=1482193446');
+}
+
+/* SECTIONS */
+.section-main,
+.section-order {
+	height: 100vh;
+}
